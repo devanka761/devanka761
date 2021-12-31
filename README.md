@@ -11,7 +11,7 @@
 - 🥅 Impian 2022: Bisa bantu orang di <b>stack overflow</b> :v
 - ⚡ Fun fact: Lebih ngerti FL Studio 20 dari pada Visual Studio Code aowkwkwk
 
-### Languages and Tools:
+### Jatuh Cinta Pada:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
