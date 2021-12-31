@@ -25,10 +25,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/terminal-19-458204.png" />
 
-<br />
-<br />
+<br/>
+<br/>
 
----
+[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [app]: https://dvnkz-messenger.netlify.app/
 [youtube]: https://www.youtube.com/c/RG761
