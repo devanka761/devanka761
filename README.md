@@ -1,18 +1,16 @@
 ### Halo, saya [Devanka][youtube] 👋 Salam kenal! 
 
 [![Youtube](https://img.shields.io/youtube/channel/views/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=My%20Youtube&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://www.youtube.com/c/RG761)
-[![Discord](https://img.shields.io/discord/911021490269466654?color=purple&label=my%20discord&logo=discord&logoColor=white&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Discord](https://img.shields.io/discord/911021490269466654?color=purple&label=my%20discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.devanka.my.id)
 
-## Aku adalah sorang insan yang dihujani beribu kesedihan..
-
+### Aku adalah sorang insan yang dihujani beribu kesedihan..
 - 🔭 Ramein Project Terakhirku: [Live Messenger][app]
 - 🌱 Pengen punya lebih dari 1 pacar 🤣
 - 👯 Sedang mencari temen belajar Go
 - 🥅 Impian 2022: Bisa bantu orang di <b>stack overflow</b> :v
 - ⚡ Fun fact: Lebih ngerti FL Studio 20 dari pada Visual Studio Code aowkwkwk
 
-### Jatuh Cinta Pada:
-
+### Namun tetap tegar :)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
@@ -28,9 +26,9 @@
 <br/>
 <br/>
 
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark)
 
 [app]: https://dvnkz-messenger.netlify.app/
 [youtube]: https://www.youtube.com/c/RG761
