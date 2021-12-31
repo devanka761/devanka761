@@ -29,7 +29,12 @@
 <br />
 
 ---
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
@@ -39,12 +44,6 @@
 
 <!-- --- -->
 
-<!-- ### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
 
 [app]: https://dvnkz-messenger.netlify.app/
 [youtube]: https://www.youtube.com/c/RG761
