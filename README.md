@@ -26,9 +26,9 @@
 <br/>
 <br/>
 
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs&show_icons=true)](https://github.com/devanka761)
+[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20Devanka)](https://github.com/devanka761)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark)](https://github.com/devanka761)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/devanka761)
 
 [app]: https://dvnkz-messenger.netlify.app/
 [youtube]: https://www.youtube.com/c/RG761
