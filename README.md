@@ -1,7 +1,6 @@
 ### Halo, saya [Devanka][youtube] 👋 Salam kenal! 
 
-[![Youtube](https://img.shields.io/youtube/channel/views/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=My%20Youtube&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://www.youtube.com/c/RG761)
-[![Discord](https://img.shields.io/discord/928927262366109817?color=purple&label=my%20discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/J6bFvegZ7Q)
+[![Youtube](https://img.shields.io/youtube/channel/subs/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=My%20Youtube&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://www.youtube.com/c/RG761)
 
 ### Aku adalah sorang insan yang dihujani beribu kesedihan..
 - 🔭 Ramein Project Terakhirku: [Live Messenger][app]
