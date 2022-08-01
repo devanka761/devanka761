@@ -12,15 +12,13 @@
 ### Namun tetap tegar :)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
+<img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/terminal-19-458204.png" />
 
 <br/>
 <br/>
@@ -29,5 +27,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/devanka761)
 
-[app]: https://dvnkz-messenger.netlify.app/
+[app]: https://github.com/devanka761/chat-app
 [youtube]: https://www.youtube.com/c/RG761
