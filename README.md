@@ -23,8 +23,6 @@
 <br/>
 <br/>
 
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20Devanka)](https://github.com/devanka761)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/devanka761)
 
 [app]: https://github.com/devanka761/chat-app
