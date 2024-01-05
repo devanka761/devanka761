@@ -4,9 +4,8 @@
 
 ### Aku adalah sorang insan yang dihujani beribu kesedihan..
 - 🔭 Ramein Project Terakhirku: [Live Messenger][app]
-- 🌱 Pengen punya lebih dari 1 pacar 🤣
 - 👯 Sedang mencari temen belajar Go
-- 🥅 Impian 2022: Bisa bantu orang di <b>stack overflow</b> :v
+- 🥅 Impian 2024: Bisa bantu orang di <b>stack overflow</b> :v
 - ⚡ Fun fact: Lebih ngerti FL Studio 20 dari pada Visual Studio Code aowkwkwk
 
 ### Namun tetap tegar :)
