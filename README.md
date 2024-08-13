@@ -12,8 +12,3 @@ Personal Website: [devanka.id][personal]
 <img align="left" alt="Node JS" height="26px" src="https://devanka.id/img/static/nodejs_icon.png" />
 <img align="left" alt="Javascript" height="26px" src="https://devanka.id/img/static/javascript_icon.png" />
 <img align="left" alt="PHP" height="26px" src="https://devanka.id/img/static/php_icon.png" />
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/devanka761)
