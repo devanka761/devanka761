@@ -1,31 +1,111 @@
-[personal]: https://devanka.id
-[kulon]: https://kulon.devanka.id
-[kirimin]: https://kirimin.devanka.id
+<h2 align="center"><a href="https://devanka.id" target="_blank">Devanka 761</a></h2>
 
-## [Devanka][personal]
+###
 
-I am not a professional, just someone who loves to code~
+<p align="center">I am not a professional, just someone who loves to code~</p>
 
-<img src="./static/icons/devanka_profile_picture.png" alt="devanka761" width="30"> [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Devanka%20761&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://youtube.com/@devanka761)
+###
 
-#### Latest Projects
+<div align="center">
+  <a href="https://kulon.devanka.id" target="_blank"><img alt="Kulon Small Icon" align="center" height="26px" src="./static/icons/kulon-72x72.png" /> devanka761/kulon</a>
+</div>
 
-<img alt="Kulon Small Icon" align="center" height="30px" src="./static/icons/kulon-72x72.png"> **[Kulon][kulon]**: Web-based Game
-<br><img alt="Kirimin Small Icon" align="center" height="30px" src="./static/icons/kirimin-72x72.png"> **[Kirimin][kirimin]**: Web-based Chat App
-<br><img alt="Devanka761 Small Icon" align="center" height="30px" src="./static/icons/devanka_profile_picture.png"> **[Personal Website][personal]**
+---
 
-<img align="left" alt="MONGO DB" height="26px" src="./static/techs/mongodb.png" >
-<img align="left" alt="EXPRESS" height="26px" src="./static/techs/express.png" >
-<img align="left" alt="REACT" height="26px" src="./static/techs/react.png" >
-<img align="left" alt="NEXT.JS" height="26px" src="./static/techs/next_js.png" >
-<img align="left" alt="VITE" height="26px" src="./static/techs/vite.png" >
-<img align="left" alt="TYPESCRIPT" height="26px" src="./static/techs/typescript.png" >
-<img align="left" alt="FIREBASE" height="26px" src="./static/techs/firebase.png" >
-<img align="left" alt="WEBPACK" height="26px" src="./static/techs/webpack.png" >
-<img align="left" alt="TAILWIND CSS" height="26px" src="./static/techs/tailwind_css.png" >
-<img align="left" alt="SASS" height="26px" src="./static/techs/sass.png" >
-<img align="left" alt="NODE.JS" height="26px" src="./static/techs/node_js.png" >
-<img align="left" alt="JAVASCRIPT" height="26px" src="./static/techs/javascript.png" >
-<img align="left" alt="GODOT" height="26px" src="./static/techs/godot.png" >
-<img align="left" alt="NGINX" height="26px" src="./static/techs/nginx.png" >
-<img align="left" alt="UBUNTU" height="26px" src="./static/techs/ubuntu.png" >
+<div align="center">
+  <a href="https://kirimin.devanka.id" target="_blank"><img alt="Kirimin Small Icon" align="center" height="26px" src="./static/icons/kirimin-72x72.png"> devanka761/kirimin</a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://devanka.id" target="_blank"><img alt="Devanka Icon" align="center" height="26px" src="./static/icons/chokedraven-192x192.png">devanka/portfolio</a>
+</div>
+
+---
+
+###
+
+<h3 align="center">Tech Stack & Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="26" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="26" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="26" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="26" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="26" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="26" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="26" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="26" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="26" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="26" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="26" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="26" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="26" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="26" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="26" alt="godot logo"  />
+</div>
+
+###
+
+<h3 align="center">Most Used Languages</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanka761&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">Let's Talk</h3>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/dvnkz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/FNR524AjMt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@devanka761" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/dvnkz_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+  <a href="https://devanka761.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="itch logo"  />
+  </a>
+</div>
+
+###
+
+---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devanka761/devanka761/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devanka761/devanka761/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devanka761/devanka761/output/pacman-contribution-graph.svg">
+</picture>
+
+###
