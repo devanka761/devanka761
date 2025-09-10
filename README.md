@@ -10,13 +10,9 @@
   <a href="https://kulon.devanka.id" target="_blank"><img alt="Kulon Small Icon" align="center" height="26px" src="./static/icons/kulon-72x72.png" /> devanka761/kulon</a>
 </div>
 
----
-
 <div align="center">
   <a href="https://kirimin.devanka.id" target="_blank"><img alt="Kirimin Small Icon" align="center" height="26px" src="./static/icons/kirimin-72x72.png"> devanka761/kirimin</a>
 </div>
-
----
 
 <div align="center">
   <a href="https://devanka.id" target="_blank"><img alt="Devanka Icon" align="center" height="26px" src="./static/icons/chokedraven-192x192.png">devanka/portfolio</a>
